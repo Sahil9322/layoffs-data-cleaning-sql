@@ -431,4 +431,8 @@ I focused on writing SQL queries that demonstrate practical data-cleaning techni
 
 <img width="1917" height="1018" alt="Screenshot 2026-10-05 205347" src="https://github.com/user-attachments/assets/aefe3fa3-9526-4dc7-b575-7c2eeebd3635" />
 
+<img width="1917" height="1017" alt="Screenshot 2026-10-05 205419" src="https://github.com/user-attachments/assets/b04c943e-d5c6-4b03-b501-80f08fa0c586" />
+
+<img width="1917" height="1020" alt="Screenshot 2026-10-05 205557" src="https://github.com/user-attachments/assets/8465234d-c1a8-4a9b-9aea-fdf3e03785a7" />
+
 
