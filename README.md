@@ -425,3 +425,5 @@ I focused on writing SQL queries that demonstrate practical data-cleaning techni
 ## ⭐ Skills Demonstrated
 
 `SQL` `MySQL` `Data Cleaning` `Data Preparation` `Data Quality` `Window Functions` `CTE` `JOINs` `NULL Handling` `Data Transformation` `Database Management`
+
+## Dashbord 
