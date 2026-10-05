@@ -427,3 +427,8 @@ I focused on writing SQL queries that demonstrate practical data-cleaning techni
 `SQL` `MySQL` `Data Cleaning` `Data Preparation` `Data Quality` `Window Functions` `CTE` `JOINs` `NULL Handling` `Data Transformation` `Database Management`
 
 ## Dashbord 
+<img width="1917" height="1025" alt="Screenshot 2026-10-05 205323" src="https://github.com/user-attachments/assets/f7f5d36c-974c-40f2-b4d6-a54aa912603f" />
+
+<img width="1917" height="1018" alt="Screenshot 2026-10-05 205347" src="https://github.com/user-attachments/assets/aefe3fa3-9526-4dc7-b575-7c2eeebd3635" />
+
+
